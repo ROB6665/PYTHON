@@ -9,3 +9,9 @@
 ![LIST_METHODS](https://github.com/ROB6665/PYTHON/assets/121626867/beec0419-9477-4b9a-b836-453fc1fefbae)
 
 <hr>
+
+<h2 align="center"> SET_METHODS </h2>
+
+![SET_METHODS](https://github.com/ROB6665/PYTHON/assets/121626867/64f53bb2-3672-4942-b527-cd8b543b9fd8)
+
+<hr>
