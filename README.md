@@ -15,3 +15,9 @@
 ![SET_METHODS](https://github.com/ROB6665/PYTHON/assets/121626867/64f53bb2-3672-4942-b527-cd8b543b9fd8)
 
 <hr>
+
+<h2 align="center"> DICT_METHODS </h2>
+
+![DICT_METHODS](https://github.com/ROB6665/PYTHON/assets/121626867/9d9e57b9-66c9-421a-99e2-46f47e3a18e4)
+
+<hr>
